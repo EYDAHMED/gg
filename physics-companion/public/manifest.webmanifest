@@ -1,0 +1,10 @@
+{
+  "name": "Physics â€” Daily Life Companion",
+  "short_name": "Physics",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAFAFA",
+  "theme_color": "#FAFAFA",
+  "orientation": "portrait-primary",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
